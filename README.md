@@ -7,7 +7,6 @@ Task Management: Users can view, add, edit, and delete tasks.
 Pagination: Efficient pagination for fetching tasks from the server.
 State Management: Implemented using the Bloc pattern for efficient state management.
 Local Storage: Tasks are persisted locally using shared preferences.
-Unit Tests: Comprehensive unit tests cover critical functionalities such as task CRUD operations, input validation, state management, and network requests.
 #  How to Build and Run
 Prerequisites
 Ensure that you have Flutter installed on your development machine. You can install Flutter from here.
@@ -15,7 +14,7 @@ Steps
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/task-manager-app.git
+git clone https://github.com/bara2brh/task-manager-app.git
 Navigate to the project directory:
 bash
 Copy code
